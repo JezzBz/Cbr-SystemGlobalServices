@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{65F62867-30BE-4CE3-89DA-27D6306C0C11}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cbr-SystemGlobalServices PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cbr-SystemGlobalServices/Controllers/RateController.cs">
+    <Files>
+      <File FileName="Cbr-SystemGlobalServices/Controllers/RateController.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cbr-SystemGlobalServices" expanded="True">
+            <Node name="Cbr-SystemGlobalServices" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="RateController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

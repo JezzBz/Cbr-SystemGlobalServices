@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "579phmDhTFiPCrhzrr4D/U7PYWXYXwqweb4a26foNH1psqgPgI9sVr+oZLWqu60wvKuL65S3fpduqtPfhI/SPg==",
+  "success": true,
+  "projectFilePath": "/Users/bogdan/Projects/Cbr-SystemGlobalServices/Cbr-SystemGlobalServices/Cbr-SystemGlobalServices.csproj",
+  "expectedPackageFiles": [
+    "/Users/bogdan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/bogdan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/bogdan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/bogdan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/bogdan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/bogdan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
